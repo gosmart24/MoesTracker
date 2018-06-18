@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MOES TRACKER</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="requiredfifelds">Required field cannot be Empty!</string>
+    <string name="invalidID">Invalid Tracker ID!</string>
+    <string name="title_activity_maps_view">Map</string>
+    <string name="newtrackertext">Please fill the Tracker details below: \n(All fields are required)</string>
+    <string name="Enterregno">Enter the registered phone No.</string>
+</resources>
